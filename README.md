@@ -19,7 +19,7 @@
 To use the Kinematics Actuator locally, follow these steps:
 
 ## Clone the repository:
- 1) git clone https://github.com/your-username/kinematics-actuator.git
+ 1) git clone https://github.com/EthanFalcao/Kinematics-Calculator.git
  2) Open the project directory:
     cd kinematics-actuator
  3) Open the index.html file in your preferred web browser.
