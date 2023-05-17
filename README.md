@@ -25,7 +25,7 @@ To use the Kinematics Actuator locally, follow these steps:
  3) Open the index.html file in your preferred web browser.
  
 ## Contributions
-Contributions to the Kinematics Actuator are welcome! If you would like to contribute, please follow these guidelines:
+Contributions to the Kinematics calculator are welcome! If you would like to contribute, please follow these guidelines:
 
 ## Fork the repository.
  - Create a new branch for your feature or bug fix.
